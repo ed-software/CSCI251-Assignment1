@@ -1,0 +1,4 @@
+Tough Terrapin,15,3:2,3,4
+Softy Squid,-15,-3:1,2,3,4,5
+Moderate Monkey,0,0:4,5,6,7
+Contrary Cat,3,3:3,5,6

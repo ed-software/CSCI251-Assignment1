@@ -1,0 +1,5 @@
+Average Ant,204932,50,5,Short course:1
+Brilliant Bison,234543,80,3,Bachelor of Bounciness:2,5,3
+Consistent Canary,123456,60,1,Diploma of Doggeral:3,6
+Dusty the Dinosaur,000001,65,3,Master of Extinction:1,2,3,4,5,6
+Iggy the Irratic,369523,50,15,Some Degree of Oddness:7,5,3,1

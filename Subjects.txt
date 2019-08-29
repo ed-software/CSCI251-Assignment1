@@ -1,0 +1,7 @@
+Archery,-15,1
+Basic Bouncing,-10,-2
+Counting for Animals,0,2
+Digging,4,1
+Better Bouncing,0,2
+Finding Friends,10,3
+Gathering Greenery,15,0
