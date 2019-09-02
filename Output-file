@@ -1,7 +1,7 @@
 Student: Average Ant
     Subject: Archery
     Teacher: Softy Squid
-    Performance: 73-C
+    Performance: 79-D
     Mean: 80
     Standard Deviation: 3
 
@@ -16,13 +16,13 @@ Student: Brilliant Bison
 
     Subject: Better Bouncing
     Teacher: Tough Terrapin
-    Performance: 64-P
+    Performance: 78-D
     Mean: 65
     Standard Deviation: 8
 
     Subject: Counting for Animals
     Teacher: Tough Terrapin
-    Performance: 54-P
+    Performance: 70-C
     Mean: 65
     Standard Deviation: 8
 
@@ -37,113 +37,88 @@ Student: Consistent Canary
 
     Subject: Finding Friends
     Teacher: Tough Terrapin
-    Performance: 34-F
+    Performance: 41-F
     Mean: 35
     Standard Deviation: 7
 
     Subject: Finding Friends
     Teacher: Softy Squid
-    Performance: 32-F
+    Performance: 53-P
     Mean: 35
     Standard Deviation: 7
 
-    Subject: Finding Friends
-    Teacher: Softy Squid
-    Performance: 30-F
-    Mean: 35
-    Standard Deviation: 7
-
-    Subject failed too many times. Student did not graduate.
+    Successfully graduated.
 
 Student: Dusty the Dinosaur
     Subject: Archery
     Teacher: Softy Squid
-    Performance: 96-HD
+    Performance: 95-HD
     Mean: 95
     Standard Deviation: 1
 
     Subject: Basic Bouncing
     Teacher: Tough Terrapin
-    Performance: 60-P
+    Performance: 57-P
     Mean: 60
     Standard Deviation: 4
 
     Subject: Counting for Animals
     Teacher: Tough Terrapin
-    Performance: 52-P
+    Performance: 36-F
+    Mean: 50
+    Standard Deviation: 8
+
+    Subject: Counting for Animals
+    Teacher: Tough Terrapin
+    Performance: 54-P
     Mean: 50
     Standard Deviation: 8
 
     Subject: Digging
     Teacher: Moderate Monkey
-    Performance: 63-P
+    Performance: 59-P
     Mean: 61
     Standard Deviation: 4
 
     Subject: Better Bouncing
-    Teacher: Moderate Monkey
-    Performance: 67-C
-    Mean: 65
-    Standard Deviation: 5
+    Teacher: Softy Squid
+    Performance: 78-D
+    Mean: 80
+    Standard Deviation: 2
 
     Subject: Finding Friends
-    Teacher: Contrary Cat
-    Performance: 58-P
-    Mean: 52
-    Standard Deviation: 9
+    Teacher: Moderate Monkey
+    Performance: 48-WS
+    Supplementary Performance: 50-PS
+    Mean: 55
+    Standard Deviation: 6
 
     Successfully graduated.
 
 Student: Iggy the Irratic
     Subject: Gathering Greenery
     Teacher: Softy Squid
-    Performance: 41-F
-    Mean: 50
-    Standard Deviation: 12
-
-    Subject: Gathering Greenery
-    Teacher: Softy Squid
-    Performance: 43-F
-    Mean: 50
-    Standard Deviation: 12
-
-    Subject: Gathering Greenery
-    Teacher: Softy Squid
-    Performance: 58-P
+    Performance: 75-D
     Mean: 50
     Standard Deviation: 12
 
     Subject: Better Bouncing
     Teacher: Tough Terrapin
-    Performance: 52-P
+    Performance: 8-F
     Mean: 35
     Standard Deviation: 20
 
-    Subject: Counting for Animals
+    Subject: Better Bouncing
     Teacher: Tough Terrapin
-    Performance: 0-F
+    Performance: 14-F
     Mean: 35
     Standard Deviation: 20
 
-    Subject: Counting for Animals
-    Teacher: Contrary Cat
-    Performance: 48-WS
-    Supplementary Performance: 28.7327-F
-    Mean: 35
-    Standard Deviation: 20
-
-    Subject: Archery
-    Teacher: Moderate Monkey
+    Subject: Better Bouncing
+    Teacher: Softy Squid
     Performance: 29-F
-    Mean: 65
-    Standard Deviation: 16
+    Mean: 35
+    Standard Deviation: 20
 
-    Subject: Archery
-    Teacher: Tough Terrapin
-    Performance: 46-WS
-    Supplementary Performance: 50-PS
-    Mean: 65
-    Standard Deviation: 16
-
-    Successfully graduated.
+    Subject failed too many times. Student did not graduate.
 

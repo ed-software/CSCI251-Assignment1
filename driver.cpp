@@ -107,7 +107,7 @@ int main(int argc, char* argv[]) {
                 // Determine Mark and Grade
                 string grade = "F";
                 int attempts = 0;
-                while (grade == "F" && attempts < 3) { // While the subject is unpassed and attempts still under 3
+                while ((grade == "F" || grade == "WS") && attempts < 3) { // While the subject is unpassed and attempts still under 3
 
                     if (attempts > 0) { // If this is no longer the first attempt, assign a new teacher to the subject
                         newAllocatedTeachers = allocateTeachers(&teachers, &subjects);
@@ -119,6 +119,13 @@ int main(int argc, char* argv[]) {
                     // Determine mark
                     double mark = determineMark(mean, standardDeviation);
                     mark+= attempts*5; // Add 5 to the mark on the 2nd attempt, and 10 on the final attempt
+
+                    // Make sure the mark isn't over 100 or below 0 after modifying it
+                    if (mark > 100) {
+                        mark = 100;
+                    } else if (mark < 0) {
+                        mark = 0;
+                    }
 
                     // Determine grade from mark. This does not include recalculated supplementary grades.
                     grade = determineGrade(mark);
@@ -142,9 +149,10 @@ int main(int argc, char* argv[]) {
                     if (grade == "WS") {
                         mark = determineMark(mean, standardDeviation) + 5;
                         if (mark >= 50) {
+                            grade = "PS";
                             outputFile << "    Supplementary Performance: 50-PS" << endl;
                         } else {
-                            outputFile << "    Supplementary Performance: " << mark << "-F" << endl;
+                            outputFile << "    Supplementary Performance: " << round(mark) << "-F" << endl;
                         }
                     }
 
